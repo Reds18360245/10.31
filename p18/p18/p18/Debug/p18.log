@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\reds\desktop\高階程式語言\10.31\p18\source\main.c(10): warning C4013: 'strcpy' 未定義; 假設 extern 傳回整數
+c:\users\reds\desktop\高階程式語言\10.31\p18\source\main.c(13): warning C4013: 'strlen' 未定義; 假設 extern 傳回整數
+  p18.vcxproj -> C:\Users\Reds\Desktop\高階程式語言\10.31\p18\p18\Debug\p18.exe
